@@ -30,7 +30,7 @@ revolte:
             versioningStatus: enabled
             public: true
     qa:
-      branch: main
+      branch: patch-1
       services:
         rid_1:
           type: WEB_SERVICE
